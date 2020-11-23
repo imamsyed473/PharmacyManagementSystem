@@ -1,5 +1,5 @@
 # PharmacyManagementSystem
-a simple management system for pharmacies.
+a simple management system for pharmacies using PHP.
 
 
 
